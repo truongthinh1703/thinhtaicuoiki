@@ -2119,30 +2119,7 @@ var list_products = [{
     },
     "masp": "App26"
 },
-{
-    "name": "iPhone Xs Max ",
-    "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/190321/iphone-xs-max-gold-600x600.jpg",
-    "price": "10.990.000",
-    "star": 11,
-    "rateCount": 355,
-    "promo": {
-        "name": "giareonline",
-        "value": "7.990.000"
-    },
-    "detail": {
- 
-            "screen": "OLED, 6.5 inch, Super Retina HD",
-            "os": "iOS 12 (có thể cập nhật lên iOS 17)",
-            "camara": "12 MP (Góc rộng, Telephoto)",
-            "camaraFront": "7 MP",
-            "cpu": "Apple A12 Bionic (7 nm)",
-            "ram": "4 GB",
-            "rom": "64 GB, 256 GB, 512 GB",
-            "battery": "3174 mAh, hỗ trợ sạc nhanh 18W (sạc từ 0% lên 50% trong khoảng 30 phút)"     
-    },
-    "masp": "App27"
-}, {
+ {
     "name": "Huawei Nova 2i",
     "company": "Huawei",
     "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
