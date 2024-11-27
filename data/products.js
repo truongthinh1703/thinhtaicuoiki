@@ -1746,7 +1746,7 @@ var list_products = [{
         "os": "iOS 18",
         "camara": "48 MP",
         "camaraFront": "12 MP",
-        "cpu": "Apple A17 Pro (3 nm, hiệu suất hàng đầu)",
+        "cpu": "Apple A18 Pro (3 nm, hiệu suất hàng đầu)",
         "ram": "8 GB",
         "rom": "256 GB",
         "battery": "4323 mAh, hỗ trợ sạc nhanh 27W (sạc từ 0% lên 50% trong khoảng 30 phút)"
@@ -1768,7 +1768,7 @@ var list_products = [{
             "os": "iOS 18",
             "camara": "48 MP",
             "camaraFront": "12 MP",
-            "cpu": "Apple A17 Pro (3 nm, hiệu suất hàng đầu)",
+            "cpu": "Apple A18 Pro (3 nm, hiệu suất hàng đầu)",
             "ram": "8 GB",
             "rom": "256 GB",
             "battery": "3520 mAh, hỗ trợ sạc nhanh 27W (sạc từ 0% lên 50% trong khoảng 30 phút)"
