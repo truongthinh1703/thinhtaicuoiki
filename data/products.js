@@ -1743,7 +1743,7 @@ var list_products = [{
     },
     "detail": {
         "screen": "OLED, 6.7,Super Retina XDR,hỗ trợ ProMotion 120Hz",
-        "os": "iOS 17",
+        "os": "iOS 18",
         "camara": "48 MP",
         "camaraFront": "12 MP",
         "cpu": "Apple A17 Pro (3 nm, hiệu suất hàng đầu)",
@@ -1765,7 +1765,7 @@ var list_products = [{
     },
     "detail": {
             "screen": "OLED, 6.1, Super Retina XDR, hỗ trợ ProMotion 120Hz",
-            "os": "iOS 17",
+            "os": "iOS 18",
             "camara": "48 MP",
             "camaraFront": "12 MP",
             "cpu": "Apple A17 Pro (3 nm, hiệu suất hàng đầu)",
